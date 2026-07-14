@@ -1,0 +1,12 @@
+NOTICE
+
+This product includes software developed by Microsoft Corporation
+and other contributors.
+
+Visual Studio Code
+Copyright (c) Microsoft Corporation
+Licensed under the MIT License
+https://github.com/microsoft/vscode
+
+For the full license text of all included third-party components,
+see THIRD_PARTY_NOTICES.txt in this directory.
